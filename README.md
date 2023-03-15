@@ -1,6 +1,9 @@
 # SAFE
 Safe extension enables you to generate and save passwords while browsing on the go 🥳🥳
 
+<img width="353" alt="safe tweet" src="https://user-images.githubusercontent.com/109626709/225410007-a9ad15f9-b2b6-46da-8043-ef0db0237f4d.png">
+
+
 # How to use
 ###### STEP I
 Download the file as a zip folder from this repo
